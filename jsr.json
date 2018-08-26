@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": "Thierry Berger",
+    "label": "Developer",
+    "summary": "Humble team worker, always learning, motivated in video games development because of its complexity.",
+    "email": "contact@thierryberger.com",
+    "location": {
+      "postalCode": "67000",
+      "city": "Strasbourg",
+      "countryCode": "FR"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Altran",
+      "website": "http://www.altran.fr",
+      "position": "Developer",
+      "startDate": "2017-01",
+      "summary": "Development on Lyf Pay.",
+	    "highlights": [
+        "Objective-C", "Swift", "C#", "NodeJS", "Jenkins", "Gitlab", "Git", "Elasticsearch", "Kibana"
+	    ]
+    },
+    {
+      "company": "Voodoo Games",
+      "website": "http://www.voodoo.io",
+      "position": "Developer",
+      "startDate": "2016-06",
+      "endDate": "2016-11",
+      "summary": "Mobile game development.",
+      "highlights": [
+        "Objective-C", "Java", "AppEngine", "Proxy", "OVH", "Git", "Junit", "Xcode", "IntelliJ"
+	    ]
+    },
+    {
+      "company": "Ubisoft Mobile",
+      "website": "https://www.ubisoft.com",
+      "position": "Mobile developer",
+      "startDate": "2015-10",
+      "endDate": "2016-06",
+      "summary": "Development on the tools library used by most ubisoft mobile games. Support for development studios.",
+      "highlights": [
+        "Objective-C", "C", "C++", "Java", "Facebook", "Android", "iOS", "Sina Weibo", "Mercurial", "Gradle", "Xcode", "Eclipse", "ant", "bash"
+	    ]
+    },
+    {
+      "company": "Mob in Life",
+      "position": "iOS Developer",
+      "startDate": "2015-02",
+      "endDate": "2015-08",
+      "summary": "Developer of the iOS version of City Domination: https://itunes.apple.com/us/app/city-domination-mafia-mmo/id658386865.",
+      "highlights": [
+        "Objective-C", "C", "iOS", "TestFairy", "SupersonicAds", "Yodiz", "Git", "Agile"
+	  ]
+    },
+    {
+      "company": "Innovation 31",
+      "website": "http://www.innovation31.com",
+      "position": "iOS Developer",
+      "startDate": "2014-08",
+      "endDate": "2015-03",
+      "summary": "Research and development. Team formation on iOS.",
+      "highlights": [
+        "Objective-C", "C", "iOS", "Swift", "Xcode", "SVN"
+	  ]
+    },
+    {
+      "company": "Agile Partners",
+      "website": "http://www.agilepartner.net",
+      "position": "Developer RTD",
+      "startDate": "2011-09",
+      "endDate": "2012-05",
+      "summary": "Development on iOS and Windows8.",
+      "highlights": [
+        "Objective-C", "C", "iOS", "Windows 8", "Xcode", "C#", "TFS", "Agile", "Visual Studio"
+	  ]
+    },
+    {
+      "company": "Sailendra",
+      "website": "http://www.sailendra.fr",
+      "position": "Developer web full stack",
+      "startDate": "2011-02",
+      "endDate": "2011-08",
+      "summary": "Development of a new customizable statisticsview for the clients.",
+      "highlights": [
+        "Grails", "Java", "SQL", "html", "Javascript", "CSS", "Eclipse", "Mercurial"]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Open source",
+    "position": "Volunteer",
+    "website": "https://github.com/ios-control/ios-deploy/pull/228",
+    "startDate": "2016-05",
+    "endDate": "2016-09",
+    "summary": "Enable automated Apple TV builds and tests to ios-deploy.",
+    "highlights": [
+      "Objective-C", "Apple TV", "git"
+    ]
+  }],
+  "education": [
+    {
+      "institution": "Keimyung",
+      "gpa": "2.49",
+      "courses": [
+        "Mobile Game development",
+        "Unity3d",
+        "OpenGL",
+        "Korean language"
+      ],
+      "startDate": "2013-08",
+      "endDate": "2014-06"
+    },
+    {
+      "institution": "EPITECH",
+      "gpa": "2.98",
+      "courses": [
+        "Shell",
+        "C",
+        "C++",
+        "Algorithmics",
+        "Applied Mathematics",
+        "Management"
+      ],
+      "startDate": "2010-09",
+      "endDate": "2015-09"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Mobile",
+      "level": "master",
+      "keywords": [
+        "C",
+        "iOS",
+        "Swift",
+        "Objective-C",
+        "tvOS",
+        "Android",
+        "Java",
+        "C++",
+        "JNI"
+      ]
+    },
+    {
+      "name": "Cross-platform",
+      "level": "advanced",
+      "keywords": [
+        "C",
+        "Unity3d",
+        "Cocos2d",
+        "Lua",
+        "Javascript",
+        "SFML",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Teamwork",
+      "level": "master",
+      "keywords": [
+        "Git",
+        "Mercurial",
+        "SVN",
+        "Agile",
+        "Time estimation"
+      ]
+    },
+    {
+      "name": "Quality",
+      "level": "advanced",
+      "keywords": [
+        "Jenkins",
+        "Jira",
+        "TestFlight",
+        "gdb"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Karim le-nir",
+      "reference": "I truly recommend [Thierry] in any technical position that would require strong tech skills and a global vision of how things are supposed to work, both on the functional and technical aspects."
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "level": "Moderate"
+    },
+    {
+      "language": "Korean",
+      "level": "Beginner"
+    }
+  ]
+}
